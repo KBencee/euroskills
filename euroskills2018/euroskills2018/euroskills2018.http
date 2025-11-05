@@ -1,0 +1,6 @@
+@euroskills2018_HostAddress = http://localhost:5272
+
+GET {{euroskills2018_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

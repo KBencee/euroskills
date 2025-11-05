@@ -18,7 +18,7 @@ namespace euroskills2018.Models
         [JsonIgnore]
         public Szakma? Szakma { get; set; }
 
-        [ForeignKey(nameof(Orszag))]
+        [ForeignKey(nameof(OrszagId))]
         [JsonIgnore]
         public Orszag? Orszag { get; set; }
     }

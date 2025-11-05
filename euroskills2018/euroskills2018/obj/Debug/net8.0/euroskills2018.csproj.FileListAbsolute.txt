@@ -159,3 +159,4 @@ C:\Users\kiss.bence\Documents\backend\euroskills\euroskills2018\euroskills2018\o
 C:\Users\kiss.bence\Documents\backend\euroskills\euroskills2018\euroskills2018\obj\Debug\net8.0\euroskills2018.pdb
 C:\Users\kiss.bence\Documents\backend\euroskills\euroskills2018\euroskills2018\obj\Debug\net8.0\euroskills2018.genruntimeconfig.cache
 C:\Users\kiss.bence\Documents\backend\euroskills\euroskills2018\euroskills2018\obj\Debug\net8.0\ref\euroskills2018.dll
+C:\Users\kiss.bence\Documents\backend\euroskills\euroskills2018\euroskills2018\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

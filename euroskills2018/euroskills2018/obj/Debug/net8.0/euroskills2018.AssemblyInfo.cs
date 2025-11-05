@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("euroskills2018")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca7af964ec1bc0d03ea962d03e1235f7ca5042d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f73d988f083df31ca4b1e4db76adc1cd4e86d2ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("euroskills2018")]
 [assembly: System.Reflection.AssemblyTitleAttribute("euroskills2018")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

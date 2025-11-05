@@ -6,7 +6,7 @@ namespace euroskills2018.Models
     {
         [Key]
         public int Id { get; set; }
-        public string SzakmaNev { get; set; }
+        public string OrszagNev { get; set; }
         public ICollection<Versenyzo> Versenyzok { get; set; }
     }
 }

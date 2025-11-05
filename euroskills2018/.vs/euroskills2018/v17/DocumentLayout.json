@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kiss.bence\\Documents\\backend\\euroskills\\euroskills2018\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2CBF6F68-5D32-47C4-898D-0A8515396A4E}|euroskills2018\\euroskills2018.csproj|c:\\users\\kiss.bence\\documents\\backend\\euroskills\\euroskills2018\\euroskills2018\\controllers\\szakmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBF6F68-5D32-47C4-898D-0A8515396A4E}|euroskills2018\\euroskills2018.csproj|solutionrelative:euroskills2018\\controllers\\szakmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2CBF6F68-5D32-47C4-898D-0A8515396A4E}|euroskills2018\\euroskills2018.csproj|c:\\users\\kiss.bence\\documents\\backend\\euroskills\\euroskills2018\\euroskills2018\\controllers\\orszagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CBF6F68-5D32-47C4-898D-0A8515396A4E}|euroskills2018\\euroskills2018.csproj|solutionrelative:euroskills2018\\controllers\\orszagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SzakmaController.cs",
+              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\euroskills\\euroskills2018\\euroskills2018\\Controllers\\SzakmaController.cs",
+              "RelativeDocumentMoniker": "euroskills2018\\Controllers\\SzakmaController.cs",
+              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\euroskills\\euroskills2018\\euroskills2018\\Controllers\\SzakmaController.cs",
+              "RelativeToolTip": "euroskills2018\\Controllers\\SzakmaController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:02:52.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "OrszagController.cs",
               "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\euroskills\\euroskills2018\\euroskills2018\\Controllers\\OrszagController.cs",
               "RelativeDocumentMoniker": "euroskills2018\\Controllers\\OrszagController.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\euroskills\\euroskills2018\\euroskills2018\\Program.cs",
               "RelativeDocumentMoniker": "euroskills2018\\Program.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\euroskills\\euroskills2018\\euroskills2018\\appsettings.json",
               "RelativeDocumentMoniker": "euroskills2018\\appsettings.json",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "VersenyzoDbContext.cs",
               "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\euroskills\\euroskills2018\\euroskills2018\\Data\\VersenyzoDbContext.cs",
               "RelativeDocumentMoniker": "euroskills2018\\Data\\VersenyzoDbContext.cs",
@@ -87,12 +104,11 @@
               "RelativeToolTip": "euroskills2018\\Data\\VersenyzoDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T11:35:07.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T11:35:07.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Versenyzo.cs",
               "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\euroskills\\euroskills2018\\euroskills2018\\Models\\Versenyzo.cs",
               "RelativeDocumentMoniker": "euroskills2018\\Models\\Versenyzo.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Orszag.cs",
               "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\euroskills\\euroskills2018\\euroskills2018\\Models\\Orszag.cs",
               "RelativeDocumentMoniker": "euroskills2018\\Models\\Orszag.cs",
@@ -112,12 +128,11 @@
               "RelativeToolTip": "euroskills2018\\Models\\Orszag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T10:33:38.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T10:33:38.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Szakma.cs",
               "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\euroskills\\euroskills2018\\euroskills2018\\Models\\Szakma.cs",
               "RelativeDocumentMoniker": "euroskills2018\\Models\\Szakma.cs",
@@ -125,8 +140,7 @@
               "RelativeToolTip": "euroskills2018\\Models\\Szakma.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T10:33:26.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T10:33:26.525Z"
             }
           ]
         }
